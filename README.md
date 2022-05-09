@@ -1,5 +1,6 @@
 # ⭐ BotMarcos ⭐
-## Bot de Discord
+
+## <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" width="50">       Bot de Discord
 
 ### Librerias utilizadas:
    -  Libreria de Discord   -->  [`Haga click aquí`](https://github.com/Discord4J/Discord4J.git)
